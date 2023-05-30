@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import { Input } from "../components";
 import image from "../assets/blockchain (1).png";
 import { Link, useNavigate } from "react-router-dom";
-
 import {
   fadeIn,
   footerVariants,
